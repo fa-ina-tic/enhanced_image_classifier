@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "3413a463a9551225",
+    "type": "split",
+    "children": [
+      {
+        "id": "2437885dd10140fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67aadc27a0b3c43e",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "reference/AN IMAGE IS WORTH 16X16 WORDS- TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "335c7486a0935bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "0db23e1903ed3ddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d61dce50799801d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2769dd54f40ab53e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:kuber",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7d83d42698679d7a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "816e9aac4926021e",
+    "type": "split",
+    "children": [
+      {
+        "id": "1a6e650f1738007e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ae8d12423b695045",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "reference/AN IMAGE IS WORTH 16X16 WORDS- TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "62a4103db16f5411",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "reference/AN IMAGE IS WORTH 16X16 WORDS- TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19b751cf0df520cf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5b3baafb88c39742",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "reference/AN IMAGE IS WORTH 16X16 WORDS- TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "67aadc27a0b3c43e",
+  "lastOpenFiles": [
+    "Mapping.md",
+    "asdf.md",
+    "reference/AN IMAGE IS WORTH 16X16 WORDS- TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE.pdf",
+    "reference",
+    "README.md",
+    "Kubeflow.md",
+    "Amazon EKS.md",
+    "eks.md"
+  ]
+}
